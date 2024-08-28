@@ -87,4 +87,4 @@ curl -sL https://git.io/file-transfer | sh
 
 compile 2>&1 | tee build.log
 checkbuild
-zupload
+#zupload
